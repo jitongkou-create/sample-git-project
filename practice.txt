@@ -1,5 +1,1 @@
-
-
-Git init
-
-Git add .
+hello git!
